@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 3
@@ -6,3 +7,6 @@
 6
 7
 8
+=======
+1
+>>>>>>> parent of 19b19cf... Update test.txt
