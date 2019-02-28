@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1
 2
 3
@@ -20,3 +21,6 @@
 >>>>>>> parent of 77a8eb1... Update test.txt
 =======
 >>>>>>> parent of 77a8eb1... Update test.txt
+=======
+1
+>>>>>>> parent of 19b19cf... Update test.txt
