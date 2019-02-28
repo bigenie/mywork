@@ -6,6 +6,7 @@
 3
 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 5
 6
 7
@@ -18,12 +19,12 @@
 >>>>>>> parent of 19b19cf... Update test.txt
 =======
 >>>>>>> parent of 77a8eb1... Update test.txt
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 77a8eb1... Update test.txt
 =======
 1
 >>>>>>> parent of 19b19cf... Update test.txt
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 2da252d... Update test.txt
 
@@ -37,3 +38,5 @@
 12
 3
 21
+=======
+>>>>>>> parent of c76d9fa... Update test.txt
